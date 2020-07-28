@@ -159,6 +159,8 @@ button.bg-primary:focus {
 
   .modal-img > img {
     border: solid 1px #cccccc;
+    height: 150px;
+    width: auto;
   }
 
   .list li {
