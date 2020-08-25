@@ -174,7 +174,7 @@ button.bg-primary:focus {
 
 @media screen and (min-width: 570px) {
     #about {
-        height: 70vh;
+        height: 85vh;
     }
 }
 
